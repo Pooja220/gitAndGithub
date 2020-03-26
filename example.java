@@ -3,7 +3,7 @@ class Example {
 
     public static void main(String args[]) {
 
-        int x = 45;
+        int x = 50;
         int y = 60;
 
         System.out.println(x);
