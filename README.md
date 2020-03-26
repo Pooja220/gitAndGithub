@@ -5,7 +5,7 @@
 # example on git and github
 
 
-#SUbmit your names below
+#Submit your names below
 
 
 
